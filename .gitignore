@@ -1,0 +1,23 @@
+# Секреты и ключи
+credentials.json
+.env
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Логи и временные файлы
+*.log
+.DS_Store
+Thumbs.db
+
+# Файлы IDE
+.vscode/
+.idea/
+*.iml

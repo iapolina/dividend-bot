@@ -1,0 +1,6 @@
+requests
+gspread
+google-auth
+pandas
+python-dotenv
+beautifulsoup4
