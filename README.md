@@ -5,6 +5,12 @@
 
 ---
 
+## 📊 Пример таблицы
+<img width="1597" height="489" alt="Акции" src="https://github.com/user-attachments/assets/7fbef17a-6d3e-40ac-8bb8-3907120babcb" />
+
+Онлайн-ссылка:
+https://docs.google.com/spreadsheets/d/19pMij7nTQOpkYb87G-ZZJezUwsDm8m0apQfv-m5MJgI/edit?usp=sharing
+
 ## ✨ Возможности
 
 - Парсинг цен и дивидендов с Мосбиржи и dohod.ru
